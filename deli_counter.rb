@@ -13,7 +13,6 @@ def line(katz_deli)
     message += " #{index+1}. #{val}"
     }
     puts "#{message}" 
-    
   end  
 end
 
