@@ -12,7 +12,7 @@ def line(katz_deli)
     value << val
     numb << index
     }
-    puts "The line is currently: #{numb}. #{index}" 
+    puts "The line is currently: #{numb}. #{value}" 
     
   end  
 end
