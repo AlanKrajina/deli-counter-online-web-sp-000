@@ -9,8 +9,7 @@ def line(katz_deli)
     elsif katz_deli.length != 0
     
     katz_deli.each_with_index { |val,index| 
-    value << val
-    numb << index
+
     }
     puts "The line is currently: #{index}. #{val}" 
     
