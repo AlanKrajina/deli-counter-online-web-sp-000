@@ -15,4 +15,4 @@ def line(katz_deli)
       
   end
 
-line(["Logan","Avi","Spencer"])
+line("Logan","Avi","Spencer")
