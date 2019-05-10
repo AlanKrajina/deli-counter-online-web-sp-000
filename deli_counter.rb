@@ -10,10 +10,11 @@ def line(katz_deli)
     message="The line is currently:"
     
     katz_deli.each_with_index { |val,index| 
-    value.push(val)
-    numb.push(index)
+
+    
+
     }
-    puts "The line is currently: #{value}. #{numb}" 
+    puts "#{message} " 
     
   end  
 end
