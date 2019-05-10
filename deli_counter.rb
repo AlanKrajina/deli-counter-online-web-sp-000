@@ -19,6 +19,7 @@ end
 def take_a_number(katz_deli,name)
   if katz_deli == 0
     katz_deli << name
+    puts 
     elsif katz_deli != 0
       katz_deli.push(name)
     end
