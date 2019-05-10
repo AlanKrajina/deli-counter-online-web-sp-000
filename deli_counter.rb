@@ -1,5 +1,5 @@
 # Write your code here.
-katz_deli = []
+katz_deli = ["Logan","Avi","Spencer"]
 
 def line(katz_deli)
   value=[]
@@ -19,4 +19,4 @@ def line(katz_deli)
       
   end
 
-line(["Logan","Avi","Spencer"])
+line(katz_deli)
