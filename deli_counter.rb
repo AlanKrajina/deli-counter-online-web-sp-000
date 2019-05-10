@@ -9,9 +9,9 @@ def line(katz_deli)
     
     katz_deli.each_with_index { |val,index| 
     value << val
-    puts "The line is currently: #{value}" 
       
     }
+    puts "The line is currently: #{value}" 
     
   end  
 end
